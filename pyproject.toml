@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "bayesian-oed-opt-al"
+version = "0.1.0"
+description = ""
+authors = ["James Bristow <james.bristow@plantandfood.co.nz>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+bayesian-optimization = "^3.1.0"
+jupyterlab = "^4.4.10"
+matplotlib = "^3.10.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

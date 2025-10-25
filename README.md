@@ -1,2 +1,21 @@
 # bayesian-oed-opt-al
-Bayesian optimal experimental design, optimisation, and active learning with different acquisition functions
+
+Testing Bayesian optimal experimental design, optimisation, and active learning with different acquisition functions
+
+## Bayesian optimal experimental design
+
+Maximise information gain for parameters/model using Expected Information Gain
+
+Maximise information gain about system under study. Estimate parameters.
+
+## Active learning
+
+Reduce predictive variance. Prioritise observations with greatest predictive variance (widest prediction intervals)
+
+Prioritise samples/observations. Often for ML uses.
+
+## Bayesian optimisation
+
+Use ExpectedImprovement and UpperConfidenceBound
+
+Optimise parameters with respect to cost function
