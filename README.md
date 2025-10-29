@@ -14,7 +14,7 @@ Prioritise samples that lead to greatest reduction in Shannon entropy
 
 Reduce predictive variance. Prioritise observations with greatest predictive variance (widest prediction intervals)
 
-Prioritise samples/observations. Often for ML uses.
+Prioritise samples/observations that lead to greatest reduction in predictive uncertainty. Often for ML uses.
 
 ## Bayesian optimisation
 
