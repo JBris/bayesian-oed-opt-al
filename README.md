@@ -8,6 +8,8 @@ Maximise information gain for parameters/model using Expected Information Gain
 
 Maximise information gain about system under study. Estimate parameters.
 
+Prioritise samples that lead to greatest reduction in Shannon entropy 
+
 ## Active learning
 
 Reduce predictive variance. Prioritise observations with greatest predictive variance (widest prediction intervals)
